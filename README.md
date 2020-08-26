@@ -9,7 +9,7 @@
     + Animated Visualization using Matplotlib
   </p>
   <p align="center">
-    + Multiple Sorting Algorithm
+    + Multiple Highly Used Sorting Algorithms
   </p>
   <p align="center">
     <a href="https://github.com/scottvcaputo">scottvcaputo.github.io</a>
